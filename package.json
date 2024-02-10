@@ -14,7 +14,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.12"
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.12",
+    "raffeys-calculator": "^1.0.0",
+    "sarfaraz-calculator": "^1.0.1"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
