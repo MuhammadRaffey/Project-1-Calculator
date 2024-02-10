@@ -11,7 +11,8 @@ To run this calculator:
 3. Open a terminal or command prompt in the project directory.
 4. Run `npm install` to install the necessary dependencies.
 5. Run `node calculator.js` to start the application.
-
+## OR
+Alternatively You can use `npm i raffeys-calculator`
 ## Usage
 
 1. Upon running the application, you will be prompted to enter two numbers and select an operation (+, -, *, /).
